@@ -26,7 +26,7 @@ export default function RootLayout({
               <div className="bg-white p-2 w-fit h-fit rounded-md">
                 <div>
                   <p className="text-blue-500 font-bold text-lg">
-                    Motiv<span className="text-black">Speak</span>
+                    Syed Arif<span className="text-black"> Ali Shah</span>
                   </p>
                 </div>
               </div>
